@@ -35,7 +35,7 @@ func main() {
 	 fmt.Println("Ints:", intValue)
 
 	 // 创建一个数组
-	 arr := [7]string{"这", "是", "Golang", "基础", "教程", "在线", "www.nhooo.com"}
+	 arr := [7]string{"这", "是", "Golang", "基础", "教程", "在线", "www.nhooo.com."}
 
 	 fmt.Println(len(arr))
 
